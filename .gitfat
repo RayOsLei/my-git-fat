@@ -1,2 +1,2 @@
 [rsync]
-remote = 127.0.0.1:/mnt/share/fat-store
+remote = 192.168.21.221:/mnt/share/fat-store
